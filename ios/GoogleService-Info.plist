@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCMsv9VItDVxeuIn18RWzGHFvvlXgKRvUY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>641613084985</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.SplitMadi</string>
+	<key>PROJECT_ID</key>
+	<string>splitmadi</string>
+	<key>STORAGE_BUCKET</key>
+	<string>splitmadi.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:641613084985:ios:06cb199aff83d9ee3110e8</string>
+	<key>CFBundleIdentifier</key>
+	<string>AppDelegate.mm</string>
+</dict>
+</plist>

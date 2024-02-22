@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "641613084985",
+    "firebase_url": "https://splitmadi-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "splitmadi",
+    "storage_bucket": "splitmadi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641613084985:android:45a3e270000a33a73110e8",
+        "android_client_info": {
+          "package_name": "com.splitmadi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZMxSK_gh5TF82UKAm714JUjnsQTAslyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

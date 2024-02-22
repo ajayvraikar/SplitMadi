@@ -1,0 +1,136 @@
+{
+  "status_code": 200,
+  "version": "10.5",
+  "changes": "offer banner changes",
+  "images": {
+    "imageBaseUrlDefault": "https://photos.melorra.com/",
+    "catalogPageOfferImage": {
+      "visibility": true,
+      "imageUrl": "https://photos.melorra.com/fit-in/1024x1024/assets/2-percent-mobile-19.png"
+    },
+    "couponsPageOfferImage": {
+      "visibility": true,
+      "imageUrl": "https://photos.melorra.com/fit-in/1024x1024/assets/2-percent-mobile-19.png"
+    },
+    "paymentPageOfferImage": {
+      "visibility": true,
+      "imageUrl": "https://photos.melorra.com/fit-in/1024x1024/assets/2-percent-mobile-19.png"
+    },
+    "sizeYoutubeVideo": "https://www.youtube.com/embed/GzfX5dWMhNM?rel=0&modestbranding=1&autoplay=1&playsinline=1&showinfo=0&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.melorra.com&widgetid=1",
+    "ringSizeChart": "https://photos.melorra.com/fit-in/512x2611/countries/size_chart/group_4.png",
+    "haveBanglesChart": "https://photos.melorra.com/assets/images/have_bangle.jpg",
+    "dontBaveBanglesChart": "https://photos.melorra.com/fit-in/315x507/assets/images/dont_have_bangle.jpg",
+    "chainSize": "https://photos.melorra.com/assets/images/chainSize.jpg",
+    "tryOnMobileNew": "https://photos.melorra.com/assets/images/tryOnMobileNew.png",
+    "homeLatestOffersBannerImage": "https://photos.melorra.com/fit-in/512x512/assets/assets_Offers%20Homepage%20Copy_2021-06-17/drawable-xhdpi/group_41.png",
+    "trustMarkerIndia": "https://d25xjl7berdv27.cloudfront.net/assets/images/home_trustmarker_app.png",
+    "trustMarkerInternational": "https://d25xjl7berdv27.cloudfront.net/assets/images/home_trustmarker_app_int.png",
+    "trustMarkerSquareIndia": "https://d25xjl7berdv27.cloudfront.net/assets/images/trustmarker_app.png",
+    "trustMarkerSquareInternational": "https://d25xjl7berdv27.cloudfront.net/assets/images/trustmarker_app_int.png",
+    "giftBagBackground": "https://photos.melorra.com/assets/checkout/giftNew.png",
+    "bisCertification": "https://photos.melorra.com/assets/Certification.png",
+    "indiaLogo": "https://d25xjl7berdv27.cloudfront.net/countries/india.png",
+    "melorraRazorpayLogo": "https://d25xjl7berdv27.cloudfront.net/assets/android/ic_launcher.png",
+    "paymentOptionsImageUrl": "https://photos.melorra.com/fit-in/1315x150/assets/images/paymentOptions.png"
+  },
+  "offers": {
+    "visibility": true,
+    "message": "Offers retrieved successfully",
+    "data": [
+      {
+        "text": "Get 10% Additional Instant Discount on ICICI, RBL & Yes Bank Credit Cards and ICICI Bank NetBanking"
+      },
+      {
+        "text": "Get Additional 2% Instant Discount on Prepaid Orders*"
+      }
+    ],
+    "status": "success",
+    "status_code": 200
+  },
+  "recentlyViwedProducts": {
+    "visibility": true
+  },
+  "needMoreHelpTimeline": "All 365 days between 7 AM to 11 PM",
+  "internationalEnabled": true,
+  "tryOnBaseUrl": "https://cdn.mirrar.com/",
+  "urlEncodingEnabled": true,
+  "address": {
+    "enable_current_location": false,
+    "enable_search_location": false
+  },
+  "isTryOnEnabled": false,
+  "quickShipMsg": {
+    "india": "Ships in 24 Hours",
+    "international": "Delivery in 9 days"
+  },
+  "quickShipMsgPDP": {
+    "isEnabledForIndia": true,
+    "indiaMsg": "Ships in 24hrs",
+    "isEnabledForInternational": false,
+    "international": "Delivery in 9 days"
+  },
+  "saleBanner": {
+    "isActive": false,
+    "offerTitle": "THE BIGGEST Valentine's Day Sale",
+    "validTill": "Ends Today!"
+  },
+  "melorraWallet": {
+    "india": {
+      "featureEnabled": true,
+      "profileEnabled": true,
+      "homePageBannerEnabled": true,
+      "cartPageEnabled": true,
+      "walletDefaultCheck": true
+    },
+    "isEnabledForIndia": true,
+    "isEnabledForInternational": false
+  },
+  "oneDayDelivery": {
+    "isEnabledForIndia": true,
+    "isEnabledForInternational": false,
+    "indiaMsgPDP": "Deliver in 24hr",
+    "indiaMsgPLP": "Deliver in 24 Hrs",
+    "internationalMsgPDP": "Delivery in 9 days",
+    "internationalMsgPLP": "Delivery in 9 days"
+  },
+  "gyftr": {
+    "isEnabledForIndia": true,
+    "isEnabledForInternational": false
+  },
+  "guestCheckoutOtp": {
+    "isEnabledForIndia": true,
+    "isEnabledForInternational": false
+  },
+  "country_data": [
+    {
+      "country_name": "India",
+      "country_code": "INR",
+      "default_country_code": "INR",
+      "country_icon": "https://d25xjl7berdv27.cloudfront.net/countries/india.png",
+      "ip_country_code": "IN",
+      "id": 1,
+      "tele_code": "+91",
+      "currency_sign": "₹"
+    }
+  ],
+  "CSSupport": {
+    "supportContactNumber": "08069662412"
+  },
+  "localization": [
+    {
+      "position": 0,
+      "isDefaultSelected": true,
+      "title": "English",
+      "titleLocal": "English",
+      "languageCode": "en",
+      "dataUrl": "https://live-melorra.s3.ap-south-1.amazonaws.com/app-config/language_data/english_lang_data.json"
+    },
+    {
+      "position": 1,
+      "title": "Hindi",
+      "titleLocal": "हिंदी",
+      "languageCode": "hi",
+      "dataUrl": "https://live-melorra.s3.ap-south-1.amazonaws.com/app-config/language_data/hindi_lang_data.json"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+[
+  {
+    "country": "India",
+    "currency": "Indian Rupee",
+    "symbol": "₹",
+    "flagURL": "https://flagpedia.net/data/flags/normal/in.png"
+  },
+  {
+    "country": "United States",
+    "currency": "United States Dollar",
+    "symbol": "$",
+    "flagURL": "https://flagpedia.net/data/flags/normal/us.png"
+  },
+  {
+    "country": "United Kingdom",
+    "currency": "British Pound Sterling",
+    "symbol": "£",
+    "flagURL": "https://flagpedia.net/data/flags/normal/gb.png"
+  },
+  {
+    "country": "Japan",
+    "currency": "Japanese Yen",
+    "symbol": "¥",
+    "flagURL": "https://flagpedia.net/data/flags/normal/jp.png"
+  },
+  {
+    "country": "Canada",
+    "currency": "Canadian Dollar",
+    "symbol": "C$",
+    "flagURL": "https://flagpedia.net/data/flags/normal/ca.png"
+  },
+  {
+    "country": "Australia",
+    "currency": "Australian Dollar",
+    "symbol": "A$",
+    "flagURL": "https://flagpedia.net/data/flags/normal/au.png"
+  },
+  {
+    "country": "Switzerland",
+    "currency": "Swiss Franc",
+    "symbol": "CHF",
+    "flagURL": "https://flagpedia.net/data/flags/normal/ch.png"
+  },
+  {
+    "country": "China",
+    "currency": "Chinese Yuan Renminbi",
+    "symbol": "¥",
+    "flagURL": "https://flagpedia.net/data/flags/normal/cn.png"
+  },
+
+  {
+    "country": "Brazil",
+    "currency": "Brazilian Real",
+    "symbol": "R$",
+    "flagURL": "https://flagpedia.net/data/flags/normal/br.png"
+  },
+  {
+    "country": "South Africa",
+    "currency": "South African Rand",
+    "symbol": "R",
+    "flagURL": "https://flagpedia.net/data/flags/normal/za.png"
+  },
+  {
+    "country": "Russia",
+    "currency": "Russian Ruble",
+    "symbol": "₽",
+    "flagURL": "https://flagpedia.net/data/flags/normal/ru.png"
+  },
+  {
+    "country": "Mexico",
+    "currency": "Mexican Peso",
+    "symbol": "Mex$",
+    "flagURL": "https://flagpedia.net/data/flags/normal/mx.png"
+  },
+  {
+    "country": "Singapore",
+    "currency": "Singapore Dollar",
+    "symbol": "S$",
+    "flagURL": "https://flagpedia.net/data/flags/normal/sg.png"
+  },
+  {
+    "country": "South Korea",
+    "currency": "South Korean Won",
+    "symbol": "₩",
+    "flagURL": "https://flagpedia.net/data/flags/normal/kr.png"
+  },
+  {
+    "country": "New Zealand",
+    "currency": "New Zealand Dollar",
+    "symbol": "NZ$",
+    "flagURL": "https://flagpedia.net/data/flags/normal/nz.png"
+  },
+  {
+    "country": "Turkey",
+    "currency": "Turkish Lira",
+    "symbol": "₺",
+    "flagURL": "https://flagpedia.net/data/flags/normal/tr.png"
+  },
+  {
+    "country": "Saudi Arabia",
+    "currency": "Saudi Riyal",
+    "symbol": "ر.س",
+    "flagURL": "https://flagpedia.net/data/flags/normal/sa.png"
+  },
+  {
+    "country": "United Arab Emirates",
+    "currency": "UAE Dirham",
+    "symbol": "د.إ",
+    "flagURL": "https://flagpedia.net/data/flags/normal/ae.png"
+  },
+  {
+    "country": "Thailand",
+    "currency": "Thai Baht",
+    "symbol": "฿",
+    "flagURL": "https://flagpedia.net/data/flags/normal/th.png"
+  }
+]
